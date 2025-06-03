@@ -1,7 +1,3 @@
-Perfetto Daniele, ti scrivo qui l’intero contenuto del file `README.md` in **stile bilingue** come hai richiesto, così puoi copiarlo direttamente.
-
----
-
 # 🧱 Windows Server 2022 – Active Directory & DNS Setup (Proxmox Lab)
 
 Complete setup of a Windows Server 2022 domain controller in my home Proxmox lab. The server is promoted to a Domain Controller with a new forest (`lab.local`), internal DNS service, and user management via Active Directory.
