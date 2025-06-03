@@ -1,4 +1,4 @@
-# 🧱 Windows Server 2022 – Active Directory & DNS Setup (Proxmox Lab)
+# 🧱 Windows Server 2022 – Active Directory & DNS Setup (Proxmox Lab) 
 
 Complete setup of a Windows Server 2022 domain controller in my home Proxmox lab. The server is promoted to a Domain Controller with a new forest (`lab.local`), internal DNS service, and user management via Active Directory.
 
