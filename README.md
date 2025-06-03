@@ -117,7 +117,9 @@ Expected result: resolution to internal server IP (e.g. `192.168.1.109`)
 ### 9. Author
 
 Created by **Sebastiano Daniele Condorelli**
+
 LinkedIn: [linkedin.com/in/sebastianodanielecondorelli](https://www.linkedin.com/in/sebastianodanielecondorelli)
+
 2025
 
 ---
@@ -208,7 +210,9 @@ Risultato atteso: risoluzione dell’IP interno (es: `192.168.1.109`)
 ### 9. Autore
 
 Creato da **Sebastiano Daniele Condorelli**
+
 LinkedIn: [linkedin.com/in/sebastianodanielecondorelli](https://www.linkedin.com/in/sebastianodanielecondorelli)
+
 2025
 
 
