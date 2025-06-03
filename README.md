@@ -31,7 +31,7 @@ Complete setup of a Windows Server 2022 domain controller in my home Proxmox lab
 
 ---
 
-## 🇬🇧 English Version
+##  English Version
 
 ### 1. Objective
 
@@ -124,7 +124,7 @@ LinkedIn: [linkedin.com/in/sebastianodanielecondorelli](https://www.linkedin.com
 
 ---
 
-## 🇮🇹 Versione italiana
+##  Versione italiana
 
 ### 1. Obiettivo
 
